@@ -1,3 +1,5 @@
+//页脚js文件
+
 var now = new Date();
 
 // Set the start date for the "来到商务" duration
