@@ -5,6 +5,44 @@
   --backdrop-filter: blur(5px) saturate(150%);
 }
 
+/* 字体引入 */
+/* 字体引入 */
+@font-face {
+  font-family: YSHST;
+  src: url(/font/优设好身体.woff2);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: MiSans;
+  src: url(/font/MiSans.woff2);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: HYTMR;
+  src: url(/font/HYTangMeiRen55W.woff2);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LXGW';
+  src: url(/font/霞鹜文楷.woff2);
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: Consolas_1;
+  src: url(/font/Consolas.woff2);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: ZhuZiAWan;
+  src: url(/font/ZhuZiAWan2.woff2);
+  font-display: swap;
+}
 
 /* 页脚与头图透明 */
 #footer {
@@ -500,3 +538,4 @@ svg.icon {
 .menus_items .menus_item:nth-child(2) .menus_item_child {
   left: -125px;
 }
+
