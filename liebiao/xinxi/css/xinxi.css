@@ -1,0 +1,13 @@
+#xinxi-search-input {
+    width: 300px;
+    padding: 5px;
+}
+#xinxi-search-results {
+    margin-top: 10px;
+}
+.result {
+    margin-bottom: 5px;
+}
+.title {
+    font-weight: bold;
+}
