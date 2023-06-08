@@ -1,0 +1,172 @@
+[
+	{
+		"question": "1.在webpack中，使用enhanced-resolve,webpack能够解析三种文件路径，下列哪个不是这三种路径之一()",
+		"answer": "页面路径"
+	},
+	{
+		"question": "2.下列关于HTML5的说法中，不正确的是()",
+		"answer": "音频和视频都可以用<embed>标签来嵌入"
+	},
+	{
+		"question": "3.在JavaScript数组的解构赋值中，var[a,b,c]=[1,2,undefined].;语句执行后，a、b、c的值分别是()",
+		"answer": "1 2 undefined"
+	},
+	{
+		"question": "4.下列关于HTML5的表单元素的说法中，不正确的是()",
+		"answer": "action属性定义了提交表单前要执行的操作"
+	},
+	{
+		"question": "5.在Bootstrap中，能使轮播图在页面切换时有动画的方法是()",
+		"answer": "添加fade类"
+	},
+	{
+		"question": "6.下列关于Vue过渡的说法中，不正确的是()",
+		"answer": "用v-leave定义进入过渡的结束状态"
+	},
+	{
+		"question": "7.下列关于MySQL排序的说法中，不正确的是()",
+		"answer": "默认情况下，是按降序排列的"
+	},
+	{
+		"question": "8.下列关于JS0N格式的说法中，不正确的是()",
+		"answer": "JSON数据由顿号分隔"
+	},
+	{
+		"question": "9.下列关于webpack loader特性的说法中，不正确的是()",
+		"answer": "loader不支持链式传递"
+	},
+	{
+		"question": "10.如果需要通过指定标签名获得对应元素，可以使用以下哪一个JavaScript方法()",
+		"answer": "getElementsByTagName()"
+	},
+	{
+		"question": "11.JavaScript ES6使用数组扩展的fill()函数，[1,2,3,4,5].fill(4,1,3)语句的结果是()",
+		"answer": "D. [1, 4, 4, 4, 5]"
+	},
+	{
+		"question": "12.下列关于JavaScript数组排序函数的说法中，正确的是()",
+		"answer": "reverse()——反转数组顺序"
+	},
+	{
+		"question": "13.下列不属于HTML5新特性的是()",
+		"answer": "所有特性在各个浏览器上的支持程度是一样的"
+	},
+	{
+		"question": "14.使用jQuery设置被选元素的属性值，可以使用下列哪个函数()",
+		"answer": "attr()"
+	},
+	{ "question": "15.下列JavaScript语句中，运行结果为false的是()", "answer": "'61'<'9';" },
+	{
+		"question": "16.下列关于JavaScript的static关键字的说法中，正确的是()",
+		"answer": "不能在类的实例上调用"
+	},
+	{
+		"question": "17.下列CSS3代码中，哪一个可以规定段落中的文本不换行()",
+		"answer": "white-space:nowrap;"
+	},
+	{
+		"question": "18.在jQuery中，如果想淡入一个隐藏元素，下列哪个函数可以实现该功能()",
+		"answer": "fadeIn()"
+	},
+	{ "question": "19.下列不属于CSS3新特性的是()", "answer": "background-image" },
+	{
+		"question": "20.在Bootstrap中，对于tooltip元素，data-trigger函性的作用是()",
+		"answer": "设置提示框的触发方式"
+	},
+	{ "question": "21.下列PHP关键词中，属于循环语句的是()", "answer": "do-while" },
+	{
+		"question": "22.在Node.js环境中，stream是一个抽象接口，它有四种流类型，下列不属于这四种流类型的是()",
+		"answer": "Transition"
+	},
+	{ "question": "23.下列关于Vue的描述中，不正确的是()", "answer": "运行速度快" },
+	{
+		"question": "24.下列关于Vue的方法和指令的说法中，不正确的是()",
+		"answer": "循环用v-hile指令"
+	},
+	{ "question": "25.Bootstrap插件依赖于()", "answer": "jQuery" },
+	{
+		"question": "26.下列CSS语句中，能使a标签去除默认下划线的是()",
+		"answer": "text-decoration:none;"
+	},
+	{ "question": "27.能够清除f1oat浮动的CSS语句是()", "answer": "clear:both;" },
+	{ "question": "28.下列哪一个不是Node.js的特点()", "answer": "不可伸缩" },
+	{
+		"question": "29.对于JavaScript的typeof运算符，typeof NaN和typeof null语句的返回结果分别是()",
+		"answer": "number  object"
+	},
+	{
+		"question": "30.下列关于Ajax说法正确的是()",
+		"answer": "ajax()方法通过服务器请求加载远程数据"
+	},
+	{
+		"question": "31.下列关于CSS3边框属性的描述中，正确的是()",
+		"answer": "border-style指定要显示的边框类型。border-image用于设置边框的图片。border-width用于设置边框的宽度"
+	},
+	{
+		"question": "32.下列关于JavaScript ES6的函数扩展说法中，正确的是()",
+		"answer": "rest参数用于获取函数的多余参数。允许为函数的参数设置默认值。name属性返回当前函数的函数名"
+	},
+	{
+		"question": "33.下列关于JavaScript ES6 Class的说法中，错误的是()",
+		"answer": "其本质是function，在ES6中可以看作语法糖。class关键字定义的类实例化必须通过new关键字。 使用class关键字定义的类不存在prototype"
+	},
+	{
+		"question": "34.使用axios时可以配置的参数有()",
+		"answer": "method。responseType。params"
+	},
+	{
+		"question": "35.下列关于JavaScript Promise的说法中，正确的是()",
+		"answer": "有了Promise对象，就可以将异步操作以同步操作的流程表达出来，避免了层层嵌套的回调函数。Promise是异步编程的一种解决方案。对象的状态不受外界影响"
+	},
+	{
+		"question": "36.下列Bootstrap类中，可以用来制作小按钮的是()",
+		"answer": "btn-xs。btn-sm"
+	},
+	{
+		"question": "37.下列关于CSS3选择器的描述中，正确的是()",
+		"answer": " div p -> 选择 <div> 元素内的所有 <p> 元素。div > p -> 选择父元素是 <div> 的所有子级 <p> 元素。div + p -> 选择紧跟在 <div> 元素后的首个 <p> 元素"
+	},
+	{
+		"question": "38.下列关于JavaScript Proxy对象的说法中，正确的是()",
+		"answer": "Proxy用于修改某些操作的默认行为。Proxy在目标对象的外层搭建了一层拦截，外界对目标对象的某些操作，必须通过这层拦截。ES6原生提供Proxy构造函数，用来生成Proxy实例"
+	},
+	{
+		"question": "39.下列关于Vue.js的说法中，正确的是()",
+		"answer": "事件监听可以使用v-on指令。数据绑定的形式常用就是使用{{}}（双大括号）的文本插值"
+	},
+	{
+		"question": "40.下列关于jQuery鼠标事件的说法中，正确的是()",
+		"answer": "mousedown() -> 当鼠标指针移动到元素上方，并按下鼠标按键时，会发生的事件。mouseover() -> 当鼠标指针位于元素上方时，会发生的事件。mouseleave() -> 当鼠标指针离开元素时，会发生的事件"
+	},
+	{ "question": "41.下列PHP表达式中，使用算术运算符的是()", "answer": "a-b。a+b" },
+	{
+		"question": "42.下列CSS类中，哪些是Bootstrap的辅助类()",
+		"answer": "text-muted。hide。show"
+	},
+	{
+		"question": "43.下列常见HTTP错误代码的描述中，正确的是()",
+		"answer": "404 - 网页URL不合法：404错误表示请求的网页在服务器上不存在。405 - 服务器禁止当前HTTP方法的请求：405错误表示服务器不允许使用客户端请求的HTTP方法（如GET、POST）。200 - 成功处理了请求：200表示服务器成功处理了请求，并返回了正确的响应。500 - 服务器内部错误：500错误表示服务器在处理请求时遇到了内部错误，导致无法完成请求。"
+	},
+	{
+		"question": "44.Vue.js为v-on提供了事件修饰符来处理DOM事件细节，可以通过'.'表示指令后缀来调用修饰符，下列说法中正确的是(）",
+		"answer": " .1eft--左键事件。.once--只触发一次。.stop--阻止冒泡"
+	},
+	{
+		"question": "45.在Node.js环境下，下列连接数据库的参数中，描述正确的是()",
+		"answer": "password -> 密码。 host -> 主机地址。username -> 用户名"
+	},
+	{
+		"question": "46.热更新是webpack的一个功能，它可以使得代码修改之后，不刷新浏览器更新效果。",
+		"answer": "对"
+	},
+	{ "question": "47.使用jQuery时，$()和var的意义是一样的。", "answer": "错" },
+	{
+		"question": "48.CSS引入外部样式表的方法是在<head>标签内添加<style>标签。",
+		"answer": "错"
+	},
+	{ "question": "49.在Vue.js中，我们用v.attr来设置样式属性。", "answer": "错" },
+	{
+		"question": "50.CSS3中text-shadow属性最多可以4个参数，分别表示水平阴影位置、垂直阴影位置、模糊距离、阴影大小。",
+		"answer": "错"
+	}
+]
