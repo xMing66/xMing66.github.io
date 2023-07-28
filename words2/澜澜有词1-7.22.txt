@@ -1,0 +1,94 @@
+{
+        "english": "abandon",
+        "chinese": "抛弃",
+        "help": ""
+    },
+    {
+        "english": "ability",
+        "chinese": "能力",
+        "help": ""
+    },
+    {
+        "english": "abnormal",
+        "chinese": "不正常的",
+        "help": ""
+    },
+    {
+        "english": "aboard",
+        "chinese": "在船上",
+        "help": ""
+    },
+    {
+        "english": "abound",
+        "chinese": "大量存在",
+        "help": ""
+    },
+    {
+        "english": "about",
+        "chinese": "关于",
+        "help": ""
+    },
+    {
+        "english": "above",
+        "chinese": "在上面",
+        "help": ""
+    },
+    {
+        "english": "abroad",
+        "chinese": "在国外",
+        "help": ""
+    },
+    {
+        "english": "absent",
+        "chinese": "缺席",
+        "help": ""
+    },
+    {
+        "english": "absolute",
+        "chinese": "绝对的",
+        "help": ""
+    },{
+        "english": "absorb",
+        "chinese": "吸收",
+        "help": ""
+    },
+    {
+        "english": "abstract",
+        "chinese": "抽象的",
+        "help": ""
+    },
+    {
+        "english": "abuse",
+        "chinese": "滥用",
+        "help": ""
+    },
+    {
+        "english": "academy",
+        "chinese": "专科院校",
+        "help": ""
+    },
+    {
+        "english": "accelerate",
+        "chinese": "加速",
+        "help": ""
+    },
+    {
+        "english": "accent",
+        "chinese": "口音",
+        "help": ""
+    },
+    {
+        "english": "accept",
+        "chinese": "接受",
+        "help": ""
+    },
+    {
+        "english": "access",
+        "chinese": "进入",
+        "help": ""
+    },
+    {
+        "english": "accident",
+        "chinese": "事故",
+        "help": ""
+    },

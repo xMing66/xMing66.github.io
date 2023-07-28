@@ -1,0 +1,89 @@
+{
+        "english": "acute",
+        "chinese": "严重的",
+        "help": ""
+    },{
+        "english": "adapt",
+        "chinese": "适应",
+        "help": ""
+    },
+    {
+        "english": "add",
+        "chinese": "增加",
+        "help": ""
+    },
+    {
+        "english": "addict",
+        "chinese": "瘾君子",
+        "help": ""
+    },
+    {
+        "english": "address",
+        "chinese": "地址",
+        "help": ""
+    },
+    {
+        "english": "adequate",
+        "chinese": "足够的",
+        "help": ""
+    },
+    {
+        "english": "adhere",
+        "chinese": "附着",
+        "help": ""
+    },
+    {
+        "english": "adjust",
+        "chinese": "调整",
+        "help": ""
+    },
+    {
+        "english": "administer",
+        "chinese": "管理人员",
+        "help": ""
+    },
+    {
+        "english": "admire",
+        "chinese": "敬佩",
+        "help": ""
+    },
+    {
+        "english": "admit",
+        "chinese": "承认",
+        "help": ""
+    },
+    {
+        "english": "adopt",
+        "chinese": "采纳",
+        "help": ""
+    },
+    {
+        "english": "adult",
+        "chinese": "成人",
+        "help": ""
+    },
+    {
+        "english": "advance",
+        "chinese": "前进",
+        "help": ""
+    },
+    {
+        "english": "advent",
+        "chinese": "出现",
+        "help": ""
+    },
+    {
+        "english": "advertise",
+        "chinese": "打广告",
+        "help": ""
+    },
+    {
+        "english": "advise",
+        "chinese": "建议",
+        "help": ""
+    },
+    {
+        "english": "advocate",
+        "chinese": "拥护",
+        "help": ""
+    },

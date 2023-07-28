@@ -1,0 +1,94 @@
+ {
+        "english": "bomb",
+        "chinese": "炸弹",
+        "help": ""
+    },
+    {
+        "english": "bond",
+        "chinese": "纽带；连接",
+        "help": ""
+    },
+    {
+        "english": "bonus",
+        "chinese": "奖金",
+        "help": ""
+    },{
+        "english": "boast",
+        "chinese": "自夸",
+        "help": ""
+    },
+    {
+        "english": "bold",
+        "chinese": "大胆",
+        "help": ""
+    },
+    {
+        "english": "bolt",
+        "chinese": "插销",
+        "help": ""
+    },
+    {
+        "english": "blow",
+        "chinese": "吹",
+        "help": ""
+    },
+    {
+        "english": "board",
+        "chinese": "木板；船",
+        "help": ""
+    },
+    {
+        "english": "bleed",
+        "chinese": "流血",
+        "help": ""
+    },
+    {
+        "english": "boil",
+        "chinese": "沸腾",
+        "help": ""
+    },
+    {
+        "english": "boom",
+        "chinese": "繁荣",
+        "help": ""
+    },
+    {
+        "english": "boost",
+        "chinese": "增加",
+        "help": ""
+    },
+    {
+        "english": "border",
+        "chinese": "国界",
+        "help": ""
+    },
+    {
+        "english": "bore",
+        "chinese": "厌恶",
+        "help": ""
+    },
+    {
+        "english": "born",
+        "chinese": "出生",
+        "help": ""
+    },
+    {
+        "english": "bother",
+        "chinese": "打扰",
+        "help": ""
+    },
+    {
+        "english": "bottom",
+        "chinese": "底部",
+        "help": ""
+    },
+    {
+        "english": "bound",
+        "chinese": "约束",
+        "help": ""
+    },
+    {
+        "english": "bow",
+        "chinese": "鞠躬",
+        "help": ""
+    },

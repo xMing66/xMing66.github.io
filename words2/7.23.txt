@@ -1,0 +1,154 @@
+{
+        "english": "aware",
+        "chinese": "注意；知道",
+        "help": ""
+    },
+    {
+        "english": "back",
+        "chinese": "背；后退",
+        "help": ""
+    },
+    {
+        "english": "bacterium",
+        "chinese": "细菌",
+        "help": ""
+    },
+    {
+        "english": "award",
+        "chinese": "奖品",
+        "help": ""
+    },
+    {
+        "english": "awkward",
+        "chinese": "尴尬",
+        "help": ""
+    },
+    {
+        "english": "bachelor",
+        "chinese": "单身汉",
+        "help": ""
+    },
+    {
+        "english": "await",
+        "chinese": "等待",
+        "help": ""
+    },
+    {
+        "english": "average",
+        "chinese": "平均",
+        "help": ""
+    },
+    {
+        "english": "avoid",
+        "chinese": "避免",
+        "help": ""
+    },
+    {
+        "english": "awake",
+        "chinese": "醒来",
+        "help": ""
+    },
+    {
+        "english": "bad",
+        "chinese": "坏的，差的",
+        "help": ""
+    },
+    {
+        "english": "badminton",
+        "chinese": "羽毛球运动",
+        "help": ""
+    },
+    {
+        "english": "bake",
+        "chinese": "烤",
+        "help": ""
+    },
+    {
+        "english": "balance",
+        "chinese": "平衡",
+        "help": ""
+    },
+    {
+        "english": "bald",
+        "chinese": "秃顶",
+        "help": ""
+    },
+    {
+        "english": "ball",
+        "chinese": "球",
+        "help": ""
+    },
+    {
+        "english": "ban",
+        "chinese": "禁令",
+        "help": ""
+    },
+    {
+        "english": "band",
+        "chinese": "乐队",
+        "help": ""
+    },
+    {
+        "english": "bang",
+        "chinese": "碰，撞击",
+        "help": ""
+    },
+    {
+        "english": "bank",
+        "chinese": "银行",
+        "help": ""
+    },
+    {
+        "english": "bar",
+        "chinese": "酒吧",
+        "help": ""
+    },{
+        "english": "bare",
+        "chinese": "赤裸；光着",
+        "help": ""
+    },
+    {
+        "english": "bargain",
+        "chinese": "便宜；讨价还价",
+        "help": ""
+    },
+    {
+        "english": "barren",
+        "chinese": "贫瘠",
+        "help": ""
+    },
+    {
+        "english": "barrier",
+        "chinese": "障碍",
+        "help": ""
+    },
+    {
+        "english": "base",
+        "chinese": "底部；基础",
+        "help": ""
+    },
+    {
+        "english": "bat",
+        "chinese": "球棒；蝙蝠",
+        "help": ""
+    },
+    {
+        "english": "battle",
+        "chinese": "战斗",
+        "help": ""
+    },
+    {
+        "english": "bath",
+        "chinese": "洗澡",
+        "help": ""
+    },
+    {
+        "english": "bear",
+        "chinese": "承受；熊",
+        "help": ""
+    },
+    {
+        "english": "beat",
+        "chinese": "打败",
+        "help": ""
+    },

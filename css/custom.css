@@ -431,7 +431,7 @@ body::-webkit-scrollbar {
 .neko {
   width: 64px;
   height: 64px;
-  background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");
+  background-image: url("/assets/bg/maomao.png") !important;
   position: absolute;
   right: 32px;
   background-repeat: no-repeat;

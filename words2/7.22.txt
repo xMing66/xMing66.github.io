@@ -1,0 +1,95 @@
+{
+        "english": "attack",
+        "chinese": "攻击",
+        "help": ""
+    },
+    {
+        "english": "attach",
+        "chinese": "附上；附带",
+        "help": ""
+    },
+    {
+        "english": "attain",
+        "chinese": "获得",
+        "help": ""
+    },
+    {
+        "english": "attempt",
+        "chinese": "尝试",
+        "help": ""
+    },
+    {
+        "english": "attend",
+        "chinese": "出席；照顾；注意",
+        "help": ""
+    },
+    {
+        "english": "attitude",
+        "chinese": "态度",
+        "help": ""
+    },
+    {
+        "english": "altitude",
+        "chinese": "海拔",
+        "help": ""
+    },
+    {
+        "english": "attract",
+        "chinese": "吸引",
+        "help": ""
+    },
+    {
+        "english": "appeal",
+        "chinese": "吸引",
+        "help": ""
+    },
+    {
+        "english": "attribute",
+        "chinese": "把...归于",
+        "help": ""
+    },
+    {
+        "english": "audience",
+        "chinese": "观众",
+        "help": ""
+    },
+    {
+        "english": "author",
+        "chinese": "作者",
+        "help": ""
+    },
+    {
+        "english": "auto",
+        "chinese": "汽车",
+        "help": ""
+    },
+    {
+        "english": "avail",
+        "chinese": "帮助",
+        "help": ""
+    },
+    {
+        "english": "avenue",
+        "chinese": "街道",
+        "help": ""
+    },
+    {
+        "english": "average",
+        "chinese": "平均",
+        "help": ""
+    },
+    {
+        "english": "avoid",
+        "chinese": "避免",
+        "help": ""
+    },
+    {
+        "english": "await",
+        "chinese": "等待",
+        "help": ""
+    },
+    {
+        "english": "awake",
+        "chinese": "醒着",
+        "help": ""
+    },

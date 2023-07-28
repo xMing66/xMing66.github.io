@@ -1,0 +1,94 @@
+{
+        "english": "acclaim",
+        "chinese": "称赞",
+        "help": ""
+    },
+    {
+        "english": "accommodate",
+        "chinese": "提供居住环境，容纳",
+        "help": ""
+    },
+    {
+        "english": "accompany",
+        "chinese": "陪伴",
+        "help": ""
+    },
+    {
+        "english": "accomplish",
+        "chinese": "完成",
+        "help": ""
+    },
+    {
+        "english": "accord",
+        "chinese": "协议，条约；一致的",
+        "help": ""
+    },
+    {
+        "english": "account",
+        "chinese": "解释；账户",
+        "help": ""
+    },
+    {
+        "english": "accumulate",
+        "chinese": "积累",
+        "help": ""
+    },
+    {
+        "english": "accurate",
+        "chinese": "准确的",
+        "help": ""
+    },
+    {
+        "english": "accuse",
+        "chinese": "指责",
+        "help": ""
+    },
+    {
+        "english": "accustomed",
+        "chinese": "习惯",
+        "help": ""
+    },
+    {
+        "english": "ache",
+        "chinese": "疼痛",
+        "help": ""
+    },{
+        "english": "achieve",
+        "chinese": "完成",
+        "help": ""
+    },
+    {
+        "english": "acid",
+        "chinese": "酸的",
+        "help": ""
+    },
+    {
+        "english": "acknowledge",
+        "chinese": "承认",
+        "help": ""
+    },
+    {
+        "english": "acquaintance",
+        "chinese": "熟悉的，认识",
+        "help": ""
+    },
+    {
+        "english": "acquire",
+        "chinese": "获得",
+        "help": ""
+    },
+    {
+        "english": "acre",
+        "chinese": "英亩",
+        "help": ""
+    },
+    {
+        "english": "across",
+        "chinese": "穿过",
+        "help": ""
+    },
+    {
+        "english": "act",
+        "chinese": "行为",
+        "help": ""
+    },

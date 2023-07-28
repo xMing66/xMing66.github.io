@@ -1,0 +1,85 @@
+{
+        "english": "assemble",
+        "chinese": "集合",
+        "help": ""
+    },
+    {
+        "english": "assign",
+        "chinese": "分配",
+        "help": ""
+    },
+    {
+        "english": "assist",
+        "chinese": "帮助",
+        "help": ""
+    },
+    {
+        "english": "assess",
+        "chinese": "评估",
+        "help": ""
+    },
+    {
+        "english": "associate",
+        "chinese": "联想",
+        "help": ""
+    },
+    {
+        "english": "aspire",
+        "chinese": "渴望",
+        "help": ""
+    },
+    {
+        "english": "asleep",
+        "chinese": "睡着",
+        "help": ""
+    },
+    {
+        "english": "aside",
+        "chinese": "在傍边",
+        "help": ""
+    },
+    {
+        "english": "assume",
+        "chinese": "假设",
+        "help": ""
+    },
+    {
+        "english": "aspect",
+        "chinese": "方面；外观",
+        "help": ""
+    },
+    {
+        "english": "assure",
+        "chinese": "保证",
+        "help": ""
+    },
+    {
+        "english": "ashore",
+        "chinese": "在岸上",
+        "help": ""
+    },
+    {
+        "english": "antonish",
+        "chinese": "惊讶，吃惊",
+        "help": ""
+    },
+    {
+        "english": "astronaut",
+        "chinese": "宇航员",
+        "help": ""
+    },
+    {
+        "english": "athlete",
+        "chinese": "运动员",
+        "help": ""
+    },
+    {
+        "english": "atmosphere",
+        "chinese": "大气",
+        "help": ""
+    },
+    {
+        "english": "atom",
+        "chinese": "原子",
+        "help": ""
+    },
